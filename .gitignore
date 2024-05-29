@@ -1,6 +1,6 @@
 
 *.exe
 *.info
-*.hcl
+*.lock.hcl
 *.tfstate
 .terraform/
